@@ -13,6 +13,6 @@ public class ArraySum {
             arraySum += arr[i];
         }
 
-        return arraySum;
+        return arraySum; 
     }
 }
